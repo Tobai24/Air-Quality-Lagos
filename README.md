@@ -1,7 +1,7 @@
 # Air-Quality-Lagos
 Welcome to the "Air Quality in Lagos Time Series Analysis" repository! This project is dedicated to analyzing and predicting PM2 levels in Lagos, Nigeria, using a dataset sourced from low-cost sensors. Our goal is to provide valuable insights into air quality trends and the effectiveness of these sensors in measuring PM concentrations.
 
-Project Name: Air Quality in Lagos Time Series Analysis
+# Project Name: Air Quality in Lagos Time Series Analysis#
 
 Description: This project focuses on time series analysis for predicting PM2 (particulate matter with a diameter of 2.5 micrometer or less) using a dataset containing PM, temperature, and humidity readings collected from low-cost sensors. The dataset provides information on sensor types, date, time, location, and specific measurements for temperature, humidity, PM1, PM2.5, and PM10. This dataset is valuable for researchers and individuals interested in studying air quality and the efficacy of low-cost sensors in PM measurement.
 
